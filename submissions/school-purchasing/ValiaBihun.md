@@ -48,4 +48,4 @@
 
 ## Бонус E
 
-Чернетка вимог другого зрізу лежить поза знімком розробників (issue без мітки `requirement`): https://github.com/ValiaBihun/2026-quitcode-dream-team/issues/3. Після відгуку на WS6 у ній узгоджено AC-PUR-01 з AC-PUR-30 (номер закупівлі не використовується повторно) і AC-PUR-16 з матрицею прав, а бухгалтерську систему в чернетках https://github.com/ValiaBihun/2026-quitcode-dream-team/issues/4–https://github.com/ValiaBihun/2026-quitcode-dream-team/issues/8 замінено на заглушку. Випливає: роль адміністратора варто описувати в «Продукті» одним правилом, а не окремо в кожному AC.
+—
